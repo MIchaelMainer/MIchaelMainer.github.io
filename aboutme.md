@@ -4,7 +4,7 @@ title: About me
 subtitle: Husband, father, software engineer, and technical writer. 
 ---
 
-My name is Michael Mainer. I'm still work on this.
+My name is Michael Mainer. I'm still working on this.
 
 ### my history
 
