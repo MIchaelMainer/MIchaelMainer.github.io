@@ -2,6 +2,8 @@
 layout: post
 title: How to segment Microsoft Graph access
 image: /img/hello_world.jpeg
+tags: [Microsoft Graph]
+comments: true
 ---
 
 There currently isn't a solid segmentation story managing Microsoft Graph access. You can limit acc
