@@ -14,7 +14,7 @@ Feature request for more granular access control and segmented access across Mic
 
 You can restrict access of an app by setting an application access policy. 
 
-
+Scopes as segmentation dimension
 
 Different AppIds. You only control first party app ids
 
