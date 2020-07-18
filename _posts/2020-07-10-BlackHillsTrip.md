@@ -18,9 +18,11 @@ first attempt at a week long RV trip so we expect it will set the standard for f
 
 We decided we'd leave immeditiately after work on Friday, July 10th. We planned on boondocking over night at [Fishtrap, WA](https://www.blm.gov/visit/fishtrap-recreation-area) so that we could get a headstart on our roadtrip. 
 
-[<img src="/img/2020_black_hills/2020_drive_fishtrap.png" width="350"/>](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :}
+<p style="text-align:center;">
+  <img src="/img/2020_black_hills/2020_drive_fishtrap.png" width="600"/>
+</p>
 
-
+<!-- [<img src="/img/2020_black_hills/2020_drive_fishtrap.png" width="350"/>](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :} -->
 <!-- ![fishtrap drive](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :} -->
 
 It was our first boondocking experience in the RV. Fishtrap is Bureau of Land Management (BLM) land which allows for 
@@ -30,11 +32,13 @@ It was our first boondocking experience in the RV. Fishtrap is Bureau of Land Ma
   <img src="/img/2020_black_hills/fishtrap.png" width="500"/>
 </p>
 
-On our way out, I think I saw a Marten but I can't be sure. There were two of them and they ran off before we got close. 
+On our way out, I think I saw a Marten but I can't be sure. Vincent saw it as well. There were two of them and they ran off before we got close.
 
 ## Introduction to Montana and the Yellowstone teaser
 
-
+<p style="text-align:center;">
+  <img src="/img/2020_black_hills/2020_drive_fishtrap_pinecreek.png" width="600"/>
+</p>
 
 Pine Creek Campground
 Sounds of rushing water
