@@ -21,7 +21,7 @@ We decided we'd leave immeditiately after work on Friday, July 10th. We planned 
 [<p style="text-align:center;"><img src="/img/2020_black_hills/2020_drive_fishtrap.png" width="350"/></p>](/img/2020_black_hills/2020_drive_fishtrap.png)
 
 
-![fishtrap drive](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :}
+<!-- ![fishtrap drive](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :} -->
 
 It was our first boondocking experience in the RV. Fishtrap is Bureau of Land Management (BLM) land which allows for 
 '[dispersed camping](https://www.blm.gov/programs/recreation/camping)' which means free. Manija was concerned about not being in a designated campground, but I think she's fine with it now. We got there late so we parked and went to sleep. The next morning, we drove around Fishtrap to get a better lay of the place. I now know where I'll stay if we just want a quick sleep spot, or whether we may want to stay in actual campsite. We stayed at the large trailhead parking lot by Watermelon Hill. Next time, if we plan to quickly get out the next morning, we'd like to try to stay at the much smaller lot west of Fishtrap Resort. It has paved access and is faster to get in or out. If we had more time to explore, we may stay at one of the spots by Hog Lake.
