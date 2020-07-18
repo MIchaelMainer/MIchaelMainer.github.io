@@ -18,7 +18,7 @@ first attempt at a week long RV trip so we expect it will set the standard for f
 
 We decided we'd leave immeditiately after work on Friday, July 10th. We planned on boondocking over night at [Fishtrap, WA](https://www.blm.gov/visit/fishtrap-recreation-area) so that we could get a headstart on our roadtrip. 
 
-[<p style="text-align:center;"><img src="/img/2020_black_hills/2020_drive_fishtrap.png" width="350"/></p>](/img/2020_black_hills/2020_drive_fishtrap.png)
+[<img src="/img/2020_black_hills/2020_drive_fishtrap.png" width="350"/>](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :}
 
 
 <!-- ![fishtrap drive](/img/2020_black_hills/2020_drive_fishtrap.png){: .center-block :} -->
