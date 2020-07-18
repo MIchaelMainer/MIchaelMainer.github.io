@@ -4,7 +4,7 @@ title: Black Hills 2020 Road Trip
 tags: [family,RV,road trip]
 categories: [blog]
 comments: true
-published: false
+published: true
 date: 2020-07-10
 bigimg: /img/famRushmore2020.jpg
 ---
