@@ -21,17 +21,15 @@ We decided we'd leave immeditiately after work on Friday, July 10th. We planned 
 ![fishtrap drive](/img/2020_black_hills/2020_drive_fishtrap.png)
 
 It was our first boondocking experience in the RV. Fishtrap is Bureau of Land Management (BLM) land which allows for 
-'[dispersed camping](https://www.blm.gov/programs/recreation/camping)' which means free. Manija was concerned about not being in a designated campground, but I think she's fine with it now. We got there late so we parked and went to sleep. The next morning, we drove around Fishtrap to get a better lay of the place. I now know where I'll stay if we just want a quick sleep spot, or whether we may want to stay in actual campsite. We stayed at the large trailhead parking lot by Watermelon Hill. Next time, if we plan to quickly get out the next morning, we'd like to try to stay at the much smaller lot west of Fishtrap Resort. It has paved access and is faster to get in or out. If we had more time, we may stay at one of the spots by Hog Lake.
+'[dispersed camping](https://www.blm.gov/programs/recreation/camping)' which means free. Manija was concerned about not being in a designated campground, but I think she's fine with it now. We got there late so we parked and went to sleep. The next morning, we drove around Fishtrap to get a better lay of the place. I now know where I'll stay if we just want a quick sleep spot, or whether we may want to stay in actual campsite. We stayed at the large trailhead parking lot by Watermelon Hill. Next time, if we plan to quickly get out the next morning, we'd like to try to stay at the much smaller lot west of Fishtrap Resort. It has paved access and is faster to get in or out. If we had more time to explore, we may stay at one of the spots by Hog Lake.
 
-![fishtrap map](/img/2020_black_hills/fishtrap.png)
-[<img src="/img/2020_black_hills/fishtrap.png" width="250"/>](/img/2020_black_hills/fishtrap.png)
+[<img src="/img/2020_black_hills/fishtrap.png" width="500"/>](/img/2020_black_hills/fishtrap.png){: .center-block :}
 
-
-On our way out, I think I saw a Marten but I can't be sure. There were two of them andj they ran off before we got close. 
-
-I'd 
+On our way out, I think I saw a Marten but I can't be sure. There were two of them and they ran off before we got close. 
 
 ## Introduction to Montana and the Yellowstone teaser
+
+
 
 Pine Creek Campground
 Sounds of rushing water
@@ -39,7 +37,7 @@ A quick dinner over a fire and smores.
 The beauty of the yellowstone river valley, the ranches, 
 Bark beetles.
 Cool drive up.
-Trying out the panorama feature on our phone. THe handoff.
+Trying out the panorama feature on our phone. The handoff.
 Driving out and loving the landscapes of Montana and the fast highways. It evokes romatic images of living in the rural west.
 
 ## Black Hills of South Dakota
