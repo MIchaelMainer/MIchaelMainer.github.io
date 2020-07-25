@@ -25,3 +25,25 @@ points.
 Cassie Jaye, in [Meeting the Enemy TEDx Talk](https://www.youtube.com/watch?v=3WMuzhQXJoY), talks about actually listening, and her personal 
 challenges with actually listening to people who did not hold her world view. This is something most of us struggle with, albeit in an 
 unconscious way.
+
+## Joe Rogan +1494
+
+Weinstein: Police brutality is a feature, not a bug. Polic need re-education, the system is broken. 
+Opportunity is being hoarded.
+I disagree with his sentiment about the threat of Marxism. 
+Fantastic breakdown of the breaking down of the social structures of african slaves, and why they are in their place. The momentum of slavery still exists. Breaking families apart. The software program - kind of works.
+Interesting point about the results of taking men out of the population and why non jailed men are not incentivized to help.
+This is 
+
+Ranked choice voting would allow us to vote our heart. This would allow us to vote for other people, non dems and republicans. His plan sucks to have two people, for left and right.
+
+Lab leak - maybe, I don't trust China. No matter what, we can't trust China as a partner in this area. I'm not interested in his take on the source of this virus. I'd like to hear epidemiologists take.
+His hypothesis that it came from lab -- remember, there are other coronaviruses. He does make it an interesting case. 
+
+I like the idea of having a unity candidate pair.
+
+Concerns about grant money -- I don't see why being honest about this would prevent them from getting grants. Don't buy this.
+
+The entire shutdownstem doesn't seem like a real issue. There is a wider issue around disbelief of science.
+
+His suspician of compromise in science. I'm sorry, there is too much to be gained -- someone will address his suspician of science
